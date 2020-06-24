@@ -1,0 +1,37 @@
+{"frames":
+    [
+
+        {
+            "filename": "wall000",
+            "frame": {"x":0,"y":0,"w":768,"h":32},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":768,"h":32},
+            "sourceSize": {"w":768,"h":32}
+        },
+        {
+            "filename": "wall001",
+            "frame": {"x":0,"y":0,"w":32,"h":480},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":32,"h":480},
+            "sourceSize": {"w":32,"h":480}
+        },
+        {
+            "filename": "wall002",
+            "frame": {"x":0,"y":0,"w":32,"h":320},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":32,"h":320},
+            "sourceSize": {"w":32,"h":320}
+        }
+    ],
+    "meta": {
+        "app": "Adobe Flash CS6",
+        "version": "12.0.0.481",
+        "image": "seacreatures_json.png",
+        "format": "RGBA8888",
+        "size": {"w":1024,"h":2048},
+        "scale": "1"
+    }
+}

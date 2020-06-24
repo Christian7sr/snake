@@ -1,0 +1,173 @@
+{"frames":
+    [
+
+        {
+            "filename": "snake0000",
+            "frame": {"x":0,"y":0,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0001",
+            "frame": {"x":64,"y":0,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0002",
+            "frame": {"x":128,"y":0,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0003",
+            "frame": {"x":192,"y":0,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0004",
+            "frame": {"x":256,"y":0,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0005",
+            "frame": {"x":0,"y":64,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0006",
+            "frame": {"x":64,"y":64,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0007",
+            "frame": {"x":128,"y":64,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0008",
+            "frame": {"x":192,"y":64,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0009",
+            "frame": {"x":256,"y":64,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0010",
+            "frame": {"x":0,"y":128,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0011",
+            "frame": {"x":64,"y":128,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0012",
+            "frame": {"x":128,"y":128,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0013",
+            "frame": {"x":192,"y":128,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0014",
+            "frame": {"x":256,"y":128,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0015",
+            "frame": {"x":0,"y":192,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0016",
+            "frame": {"x":64,"y":192,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0017",
+            "frame": {"x":128,"y":192,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0018",
+            "frame": {"x":192,"y":192,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        },
+        {
+            "filename": "snake0019",
+            "frame": {"x":256,"y":192,"w":64,"h":64},
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+            "sourceSize": {"w":64,"h":64}
+        }
+    ],
+    "meta": {
+        "app": "Adobe Flash CS6",
+        "version": "12.0.0.481",
+        "image": "seacreatures_json.png",
+        "format": "RGBA8888",
+        "size": {"w":1024,"h":2048},
+        "scale": "1"
+    }
+}
